@@ -1,5 +1,2 @@
-Atulit-Singh-Chandrawat
-B2 Batch
-Roll No - 43
-PRN - 1032231760
-TY BTech CSE
+EXPERIMENT 2 
+Lab Experiment: Design and Develop a Student Portfolio Web Page using HTML and CSS 
